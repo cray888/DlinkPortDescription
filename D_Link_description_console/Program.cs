@@ -11,6 +11,7 @@ namespace D_Link_description_console
 {
     class Program
     {
+        //Тестовый комментарий
         static void Main(string[] args)
         {
             string host = args[0];
