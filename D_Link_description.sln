@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D_Link_description_console"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneCSocketServer", "OneCSocketServer\OneCSocketServer.csproj", "{1BC232E3-2EE6-4940-A5FB-2796E606B51D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{B745B0F9-C4E2-4DD3-919D-57FF1C0EFF1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallWebServer", "ConsoleApp\SmallWebServer.csproj", "{B745B0F9-C4E2-4DD3-919D-57FF1C0EFF1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
