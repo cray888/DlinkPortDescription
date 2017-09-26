@@ -177,7 +177,7 @@ namespace D_Link_description_console
                         {
                             if (stringCounter == 0)
                             {
-                                port = line.Substring(16, line.Length - 16);
+                                port = line.Substring(15, 2);
                             }
                             else if (stringCounter == 6)
                             {
